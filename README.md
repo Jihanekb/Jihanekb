@@ -16,12 +16,6 @@ Pronouns: She/her
 🐼 Fun Facts: 📖 🎵 🪡 
 ````
 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/77389840/200393458-fca37365-507e-40fb-8ed9-1aca8acaa156.png">
-  <img src="https://user-images.githubusercontent.com/77389840/200393690-21c1d39e-d857-46c2-88b8-f47c37d0ffdd.png">
-</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/77389840/200393335-8cbd9178-fda7-4b36-8383-28d4e8db13a8.png">
   <img src="https://user-images.githubusercontent.com/77389840/200393942-19b9afdd-97be-4b16-ab46-65ee8c1f5fc0.png">
