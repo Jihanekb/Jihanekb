@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77389840/200391129-cb5dbc15-4cac-461b-b457-8f9fa8d8e241.png">
-  <img src="https://readme-typing-svg.demolab.com?font=Lustria&size=23&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=AI+STUDENT;Bio-inspired+Technologies+Enthusiast;Believer+in+Learning+by+Doing;Always+looking+for+new+opportunities">
+  <img src="https://github.com/Jihanekb/Jihanekb/assets/77389840/7c51c125-21f4-4a17-9ef9-5e101d004ad5">
+  <img src="https://readme-typing-svg.demolab.com?font=Lustria&size=23&pause=1000&color=8B73FF&center=true&vCenter=true&width=435&lines=AI+Student;Bio-Inspired+Technologies+Enthusiast;Believer+in+learning+by+Doing;Always+looking+for+new+opportunities">
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77389840/200393585-0988f72a-f03b-4f2e-8cd1-f36b25a54ef4.png">
+  <img src="https://github.com/Jihanekb/Jihanekb/assets/77389840/b31dd3c7-6eeb-4902-8de5-76286b032f7d">
 </p>
+
 
 ````
 Pronouns: She/her
-🎓 I'm currently a senior artificial intelligence engineering student at ENSIAS.
+📚 Currently an MEng ECE concentration AAI at UOttawa
+🎓 AI engineering degree from ENSIAS
 🔭 I have a strong interest in Data Science and Artificial Intelligence and their applications in healthcare.
 💖 In a complicated relationship with Neural Networks.
 🌱 I love to learn and build something new, productive, innovative, and creative.
@@ -17,12 +19,12 @@ Pronouns: She/her
 ````
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77389840/200393335-8cbd9178-fda7-4b36-8383-28d4e8db13a8.png">
-  <img src="https://user-images.githubusercontent.com/77389840/200393942-19b9afdd-97be-4b16-ab46-65ee8c1f5fc0.png">
+  <img src="!https://github.com/Jihanekb/Jihanekb/assets/77389840/1f926194-7c28-4df5-90d8-5d88a0597737">
+  <img src="!https://github.com/Jihanekb/Jihanekb/assets/77389840/48a13671-f193-4d1c-9e30-8db97367a244">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77389840/200393093-84cadd97-b6b5-49ec-a0d3-e1ab03d6929d.png">
+  <img src="https://github.com/Jihanekb/Jihanekb/assets/77389840/63c353b5-e9a4-4aab-bfa7-4a0d9cbce071">
 </p>
 <p align="center">
 	<a href="https://drive.google.com/file/d/1gER7LYpQ-Pl1kECLAAP-3BfuG_CAseD5/view?usp=sharing"><img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="Resume"/></a>
