@@ -9,8 +9,8 @@
 
 ````
 Pronouns: She/her
-📚 Currently an MEng ECE concentration AAI at UOttawa
-🎓 AI engineering degree from ENSIAS
+📚 Currently an PhD ECE concentration AAI at UOttawa
+🎓 AI engineering degree from ENSIAS, Morocco
 🔭 I have a strong interest in Data Science and Artificial Intelligence and their applications in healthcare.
 💖 In a complicated relationship with Neural Networks.
 🌱 I love to learn and build something new, productive, innovative, and creative.
